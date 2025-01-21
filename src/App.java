@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) {
         System.out.println("Классы");
+
         Author one = new Author("Евгений", "Замятин");
         Author two = new Author("Джордж", "Оруэлл");
         Book first = new Book("1984", two, 1934);
