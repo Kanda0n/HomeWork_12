@@ -10,5 +10,6 @@ public class App {
         System.out.println(second.toString());
         second.setYear(1991);
         System.out.println(second.toString());
+        System.out.println(two.toString());
     }
 }
